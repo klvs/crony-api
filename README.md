@@ -1,6 +1,8 @@
 # Crony API v0.1
 This server will be running on api.crony.me *eventually*.For now, I'll keep this readme updated with the latest info on connecting to the backend.
 
+It's mostly just boilerplate at the moment. 
+
 # Explore
 Navigate to [hostname]:3000/explorer
 
