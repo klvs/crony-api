@@ -2,7 +2,7 @@
 This server will be running on api.crony.me *eventually*.For now, I'll keep this readme updated with the latest info on connecting to the backend.
 
 # Explore
-Navigate to [<hostname>]:3000/explorer
+Navigate to [hostname]:3000/explorer
 
 ## Documentation
 * [LoopBack iOS SDK](http://apidocs.strongloop.com/loopback-sdk-ios/)
