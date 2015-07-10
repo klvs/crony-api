@@ -7,7 +7,8 @@ It's mostly just boilerplate at the moment.
 Navigate to [hostname]:3000/explorer
 
 ## Documentation
-* [LoopBack iOS SDK](http://apidocs.strongloop.com/loopback-sdk-ios/)
+* [LoopBack iOS SDK docs](http://apidocs.strongloop.com/loopback-sdk-ios/)
+* [LoopBack iOS SDK](http://docs.strongloop.com/display/public/LB/iOS+SDK) (more useful)
 * [LookBack docs](http://apidocs.strongloop.com/loopback/)
 * [Managing Users](http://docs.strongloop.com/display/public/LB/Managing+users)
 
